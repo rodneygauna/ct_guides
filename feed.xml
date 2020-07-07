@@ -10,6 +10,29 @@
     <id>https://sindroxa.github.io/ct_guides</id>
 
     <entry>
+        <title>Patients</title>
+        <author>
+            <name>Rodney Gauna</name>
+        </author>
+        <link href="https://sindroxa.github.io/ct_guides/patients.html"/>
+        <id>https://sindroxa.github.io/ct_guides/patients.html</id>
+
+        <updated>2020-07-07T12:22:00-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Demographicsasdfasdfasdf Insurance
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Demographics</h2>
+<p>asdfasdfasdf</p>
+<p> </p>
+<h3>Insurance</h3>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>ChiroTouch Guides</title>
         <author>
             <name>Rodney Gauna</name>
@@ -17,7 +40,7 @@
         <link href="https://sindroxa.github.io/ct_guides/chirotouch-guides.html"/>
         <id>https://sindroxa.github.io/ct_guides/chirotouch-guides.html</id>
 
-        <updated>2020-07-07T12:12:03-07:00</updated>
+        <updated>2020-07-07T12:22:00-07:00</updated>
             <summary>
                 <![CDATA[
                     Landing page

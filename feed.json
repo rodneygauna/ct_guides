@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sindroxa.github.io/ct_guides/patients.html",
+            "url": "https://sindroxa.github.io/ct_guides/patients.html",
+            "title": "Patients",
+            "summary": "Demographicsasdfasdfasdf Insurance",
+            "content_html": "<h2>Demographics</h2>\n<p>asdfasdfasdf</p>\n<p> </p>\n<h3>Insurance</h3>",
+            "author": {
+                "name": "Rodney Gauna"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-07T12:22:00-07:00",
+            "date_modified": "2020-07-07T12:22:00-07:00"
+        },
+        {
             "id": "https://sindroxa.github.io/ct_guides/chirotouch-guides.html",
             "url": "https://sindroxa.github.io/ct_guides/chirotouch-guides.html",
             "title": "ChiroTouch Guides",
@@ -20,8 +34,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-07T12:12:03-07:00",
-            "date_modified": "2020-07-07T12:12:03-07:00"
+            "date_published": "2020-07-07T12:22:00-07:00",
+            "date_modified": "2020-07-07T12:22:00-07:00"
         }
     ]
 }

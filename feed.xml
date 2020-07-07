@@ -9,4 +9,24 @@
     </author>
     <id>https://sindroxa.github.io/ct_guides</id>
 
+    <entry>
+        <title>ChiroTouch Guides</title>
+        <author>
+            <name>Rodney Gauna</name>
+        </author>
+        <link href="https://sindroxa.github.io/ct_guides/chirotouch-guides.html"/>
+        <id>https://sindroxa.github.io/ct_guides/chirotouch-guides.html</id>
+
+        <updated>2020-07-07T12:12:03-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Landing page
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Landing page</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

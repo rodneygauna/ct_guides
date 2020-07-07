@@ -9,5 +9,19 @@
         "name": "Rodney Gauna"
     },
     "items": [
+        {
+            "id": "https://sindroxa.github.io/ct_guides/chirotouch-guides.html",
+            "url": "https://sindroxa.github.io/ct_guides/chirotouch-guides.html",
+            "title": "ChiroTouch Guides",
+            "summary": "Landing page",
+            "content_html": "<p>Landing page</p>",
+            "author": {
+                "name": "Rodney Gauna"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-07T12:12:03-07:00",
+            "date_modified": "2020-07-07T12:12:03-07:00"
+        }
     ]
 }

@@ -10,6 +10,38 @@
     <id>https://sindroxa.github.io/ct_guides</id>
 
     <entry>
+        <title>Insurance</title>
+        <author>
+            <name>Rodney Gauna</name>
+        </author>
+        <link href="https://sindroxa.github.io/ct_guides/insurance.html"/>
+        <id>https://sindroxa.github.io/ct_guides/insurance.html</id>
+
+        <updated>2020-07-07T12:41:34-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Demographics</title>
+        <author>
+            <name>Rodney Gauna</name>
+        </author>
+        <link href="https://sindroxa.github.io/ct_guides/demographics-2.html"/>
+        <id>https://sindroxa.github.io/ct_guides/demographics-2.html</id>
+
+        <updated>2020-07-07T12:41:34-07:00</updated>
+            <summary>
+                <![CDATA[
+                    asdfasdfasdfasdf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>asdfasdfasdfasdf</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Patients</title>
         <author>
             <name>Rodney Gauna</name>
@@ -17,10 +49,10 @@
         <link href="https://sindroxa.github.io/ct_guides/patients.html"/>
         <id>https://sindroxa.github.io/ct_guides/patients.html</id>
 
-        <updated>2020-07-07T12:28:19-07:00</updated>
+        <updated>2020-07-07T12:41:34-07:00</updated>
             <summary>
                 <![CDATA[
-                    Demographicsasdfasdfasdf Insurance
+                    Demographicsasdfasdfasdf as a sdf a a sdf as f ffdsasdfsaddfasdf
                 ]]>
             </summary>
         <content type="html">
@@ -29,6 +61,20 @@
 <p>asdfasdfasdf</p>
 <p> </p>
 <h3>Insurance</h3>
+<p> </p>
+<p>as</p>
+<h2>dfasdf</h2>
+<p>a</p>
+<p>sdf</p>
+<p>a</p>
+<h2>sdf</h2>
+<p>a</p>
+<p>sdf</p>
+<p>as</p>
+<h2>df</h2>
+<h2>asd</h2>
+<p>f</p>
+<p>ffdsasdfsaddfasdf</p>
             ]]>
         </content>
     </entry>
@@ -40,7 +86,7 @@
         <link href="https://sindroxa.github.io/ct_guides/chirotouch-guides.html"/>
         <id>https://sindroxa.github.io/ct_guides/chirotouch-guides.html</id>
 
-        <updated>2020-07-07T12:28:19-07:00</updated>
+        <updated>2020-07-07T12:41:34-07:00</updated>
             <summary>
                 <![CDATA[
                     Landing page

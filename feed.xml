@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ChiroTouch Guides</title>
+    <link href="https://sindroxa.github.io/ct_guides/feed.xml" rel="self" />
+    <link href="https://sindroxa.github.io/ct_guides" />
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <author>
+        <name>Rodney Gauna</name>
+    </author>
+    <id>https://sindroxa.github.io/ct_guides</id>
+
+</feed>

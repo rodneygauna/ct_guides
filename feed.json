@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ChiroTouch Guides",
+    "description": "",
+    "home_page_url": "https://sindroxa.github.io/ct_guides",
+    "feed_url": "https://sindroxa.github.io/ct_guides/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Rodney Gauna"
+    },
+    "items": [
+    ]
+}

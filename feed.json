@@ -18,8 +18,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-08T12:12:22-07:00",
-            "date_modified": "2020-07-08T12:12:22-07:00"
+            "date_published": "2020-07-08T12:18:04-07:00",
+            "date_modified": "2020-07-08T12:18:04-07:00"
         },
         {
             "id": "https://sindroxa.github.io/ct_guides/demographics-2.html",
@@ -32,22 +32,22 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-08T12:12:22-07:00",
-            "date_modified": "2020-07-08T12:12:22-07:00"
+            "date_published": "2020-07-08T12:18:04-07:00",
+            "date_modified": "2020-07-08T12:18:04-07:00"
         },
         {
             "id": "https://sindroxa.github.io/ct_guides/patients.html",
             "url": "https://sindroxa.github.io/ct_guides/patients.html",
             "title": "Patients",
             "summary": "Demographicsasdfasdfasdf as a sdf a a sdf as f ffdsasdfsaddfasdf",
-            "content_html": "<h2>Demographics</h2>\n<p>asdfasdfasdf</p>\n<p> </p>\n<h3>Insurance</h3>\n<p> </p>\n<p>as</p>\n<h2>dfasdf</h2>\n<p>a</p>\n<p>sdf</p>\n<p>a</p>\n<h2>sdf</h2>\n<p>a</p>\n<p>sdf</p>\n<p>as</p>\n<h2>df</h2>\n<h2>asd</h2>\n<p>f</p>\n<p>ffdsasdfsaddfasdf</p>",
+            "content_html": "<h2>Demographics</h2>\n<p>asdfasdfasdf</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://sindroxa.github.io/ct_guides/media/posts/2/gallery/MicrosoftTeams-image-2.png\" data-size=\"3163x487\"><img loading=\"lazy\" src=\"https://sindroxa.github.io/ct_guides/media/posts/2/gallery/MicrosoftTeams-image-2-thumbnail.png\" alt=\"\" width=\"768\" height=\"118\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sindroxa.github.io/ct_guides/media/posts/2/gallery/MicrosoftTeams-image-1.png\" data-size=\"1680x2374\"><img loading=\"lazy\" src=\"https://sindroxa.github.io/ct_guides/media/posts/2/gallery/MicrosoftTeams-image-1-thumbnail.png\" alt=\"\" width=\"768\" height=\"1085\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sindroxa.github.io/ct_guides/media/posts/2/gallery/MicrosoftTeams-image.png\" data-size=\"1680x1975\"><img loading=\"lazy\" src=\"https://sindroxa.github.io/ct_guides/media/posts/2/gallery/MicrosoftTeams-image-thumbnail.png\" alt=\"\" width=\"768\" height=\"903\"></a></figure>\n</div></div>\n<p> </p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/oSqgtQhHUrk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>\n<h3>Insurance</h3>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sindroxa.github.io/ct_guides/media/posts/2/MicrosoftTeams-image.png\" sizes=\"(max-width: 768px) 100vw, 768px\" srcset=\"https://sindroxa.github.io/ct_guides/media/posts/2/responsive/MicrosoftTeams-image-xs.png 300w ,https://sindroxa.github.io/ct_guides/media/posts/2/responsive/MicrosoftTeams-image-sm.png 480w ,https://sindroxa.github.io/ct_guides/media/posts/2/responsive/MicrosoftTeams-image-md.png 768w\"  alt=\"\"></figure>\n<p>as</p>\n<h2>dfasdf</h2>\n<p>a</p>\n<p>sdf</p>\n<p>a</p>\n<h2>sdf</h2>\n<p>a</p>\n<p>sdf</p>\n<p>as</p>\n<h2>df</h2>\n<h2>asd</h2>\n<p>f</p>\n<p>ffdsasdfsaddfasdf</p>",
             "author": {
                 "name": "Rodney Gauna"
             },
             "tags": [
             ],
-            "date_published": "2020-07-08T12:12:22-07:00",
-            "date_modified": "2020-07-08T12:12:22-07:00"
+            "date_published": "2020-07-08T12:18:04-07:00",
+            "date_modified": "2020-07-08T12:18:04-07:00"
         },
         {
             "id": "https://sindroxa.github.io/ct_guides/chirotouch-guides.html",
@@ -60,8 +60,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-08T12:12:22-07:00",
-            "date_modified": "2020-07-08T12:12:22-07:00"
+            "date_published": "2020-07-08T12:18:04-07:00",
+            "date_modified": "2020-07-08T12:18:04-07:00"
         }
     ]
 }
